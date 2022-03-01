@@ -1,0 +1,110 @@
+body {
+    background: rgb(224, 219, 219);
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+#titulo1{
+    padding: 15px;
+    background: rgb(255, 200, 49);
+    text-align: center;
+    width: auto;
+    height: 150px;
+}
+
+#titulo1 h1{
+    font-size: 2.5em;
+}
+
+#titulo1 h1 span{
+    color: white;
+}
+
+#titulo1 a{
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+
+
+#titulo1 a:hover{
+    background: white;
+    color: orange;
+}
+
+
+.margemdiv{
+    background: white;
+    padding: 10px;
+    margin: 20px 0px 0px 100px;
+    text-align: justify;
+    height: auto;
+    width: 920px;
+}
+
+.margemdiv a{
+    color: orange;
+    text-decoration: none;
+}
+
+h2{
+    color: rgb(252, 230, 33);
+}
+
+.postagens{
+    padding: 15px;
+    background: white;
+    position: absolute;
+    height: 200px;
+    width: 356px;
+    top: 208px;
+    left: 1100px;
+}
+
+.postagens h2{
+    margin: 200px 10px 10px 0px;
+    color: black;
+    margin-top: auto;
+    background: gray;
+    width: 100%;
+}
+
+.postagens a{
+    color: orange;
+    text-decoration: none;
+}
+
+.categorias{
+    padding: 15px;
+    background: white;
+    position: absolute;
+    top: 472px;
+    left: 1100px;
+    height: auto;
+    width: 356px;
+}
+
+.categorias h2 {
+    color: black;
+    margin-top: auto;
+    background: gray;
+    width: auto;
+    height: -20px;
+
+}
+
+.categorias a {
+    font-size: 1.25em;
+    color: orange;
+    text-decoration: none;
+}
+
+.fundorodape{
+    font-size: 1.5em;
+    background: gray;
+    text-align: center;
+    padding: 15px;
+}
+
